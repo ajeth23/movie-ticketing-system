@@ -1,0 +1,8 @@
+------------------------------------------------------------------
+| THANK YOU! 							  |
+| YOU HAVE SUCCESFULLY BOOKED THE SEATS				  |
+| A1 PIN : 99							  |
+| A2 PIN : 1031							  |
+| !!!!!!!!!!!!!!!!!!KEEP PIN SAFELY!!!!!!!!!!!!!!!!!!!		  |
+| PINS ARE REQUIRED AT THE TIME OF CANCELATION OF SEATS		  |
+ -----------------------------------------------------------------
